@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Junr5ZAvvOwXwIG9GewTyjOMabCUlvCNDfED/Anlmhk+tMEVrq4V7UnVhv6/5mJ+l2jj6yIod0rtJrwRVjzzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evand\\source\\repos\\ControleClientes\\ControleClientes\\ControleClientes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evand\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\npgsql\\5.0.7\\npgsql.5.0.7.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.1\\swashbuckle.aspnetcore.6.2.1.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.1\\swashbuckle.aspnetcore.swagger.6.2.1.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.1\\swashbuckle.aspnetcore.swaggergen.6.2.1.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.1\\swashbuckle.aspnetcore.swaggerui.6.2.1.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\valida.cpf.cnpj\\1.0.0\\valida.cpf.cnpj.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Valida.CPF.CNPJ 1.0.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Valida.CPF.CNPJ",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
